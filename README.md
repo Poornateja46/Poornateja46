@@ -1,0 +1,1 @@
+Hi, I am poorna teja, A data science enthusiast. After learning machine learning algorithm's capability to solve complex problems in my domain(Renewable energy), I am fascinated towards ML and started learning different types of machine learning tools. And currently, I am looking for an oppurtunity to utilize and increase my machine learning skills to solve real world problems.
